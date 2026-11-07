@@ -52,7 +52,9 @@ Step-by-step setup instructions are in `README.md` inside the ZIP (and in Chapte
 
 ## 📘 Get the book
 
-Available on Amazon Kindle *(link coming soon)*
+📗 **Available now on Amazon Kindle:** [Amazon.in](https://www.amazon.in/dp/B0HPZNDQH7) · [Amazon.com](https://www.amazon.com/dp/B0HPZNDQH7)
+
+Free to read with **Kindle Unlimited**. If the code helped you, an honest review on Amazon means a lot 🙏
 
 ## 📄 License
 
